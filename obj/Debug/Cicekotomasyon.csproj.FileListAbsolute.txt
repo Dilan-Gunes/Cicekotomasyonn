@@ -1,0 +1,10 @@
+C:\Users\casper\OneDrive\Masaüstü\Görsel programlama projesi\Cicekotomasyon\bin\Debug\Cicekotomasyon.exe.config
+C:\Users\casper\OneDrive\Masaüstü\Görsel programlama projesi\Cicekotomasyon\bin\Debug\Cicekotomasyon.exe
+C:\Users\casper\OneDrive\Masaüstü\Görsel programlama projesi\Cicekotomasyon\bin\Debug\Cicekotomasyon.pdb
+C:\Users\casper\OneDrive\Masaüstü\Görsel programlama projesi\Cicekotomasyon\obj\Debug\Cicekotomasyon.csproj.AssemblyReference.cache
+C:\Users\casper\OneDrive\Masaüstü\Görsel programlama projesi\Cicekotomasyon\obj\Debug\Cicekotomasyon.Form1.resources
+C:\Users\casper\OneDrive\Masaüstü\Görsel programlama projesi\Cicekotomasyon\obj\Debug\Cicekotomasyon.Properties.Resources.resources
+C:\Users\casper\OneDrive\Masaüstü\Görsel programlama projesi\Cicekotomasyon\obj\Debug\Cicekotomasyon.csproj.GenerateResource.cache
+C:\Users\casper\OneDrive\Masaüstü\Görsel programlama projesi\Cicekotomasyon\obj\Debug\Cicekotomasyon.csproj.CoreCompileInputs.cache
+C:\Users\casper\OneDrive\Masaüstü\Görsel programlama projesi\Cicekotomasyon\obj\Debug\Cicekotomasyon.exe
+C:\Users\casper\OneDrive\Masaüstü\Görsel programlama projesi\Cicekotomasyon\obj\Debug\Cicekotomasyon.pdb
